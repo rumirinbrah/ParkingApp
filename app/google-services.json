@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729859668063",
+    "project_id": "parkingass-37d50",
+    "storage_bucket": "parkingass-37d50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729859668063:android:edc081cc142b4c61c2c3ea",
+        "android_client_info": {
+          "package_name": "com.jetnsync.parkingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqn1aP-GeIkUXkYVLYwlW5EIfV9vgESPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
